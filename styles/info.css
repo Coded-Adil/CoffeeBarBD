@@ -114,11 +114,11 @@
 }
 .hero {
   /* margin-top: 40px; */
-	height: 100vh;
+	height: 150vh;
 	background: linear-gradient(to bottom left,
   rgba(0, 0, 0, .4),
   rgba(0, 0, 0, 1)
-), url(https://t4.ftcdn.net/jpg/02/29/26/87/360_F_229268788_KSVocQ89fKxKgzZfd2X9tepu0EPBfRdq.jpg) 0 0 / cover no-repeat;
+), url(https://cdnblog.picsart.com/2021/04/8-780x520.jpg) 0 0 / cover no-repeat;
 }
 .position{
   padding: 3rem;
